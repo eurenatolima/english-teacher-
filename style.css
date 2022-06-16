@@ -60,8 +60,7 @@ body {
 }
 
 .text h2 {
-  color: rgb(15, 15, 15);
-  background-color: rgb(221, 177, 43);
+  color: white;
   border-radius: 0.25rem;
 }
 
@@ -296,6 +295,13 @@ nav.show div.icon-close {
   margin-bottom: 1rem;
 }
 
+#home .text h2 {
+  color: black;
+  background-color: rgb(221, 177, 43);
+  border-radius: 0.25rem;
+
+}
+
 #home .text p {
   margin-bottom: 2rem;
 }
@@ -424,7 +430,9 @@ nav.show div.icon-close {
   gap: 4rem;
 }
 
+
 #contact .text p {
+  color: white;
   margin-bottom: 2rem;
 }
 
