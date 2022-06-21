@@ -271,7 +271,9 @@ nav.show div.icon-close {
 }
 
 #home .image {
-  display: flex;
+  margin-top: -5rem;
+  width: 27.25rem;
+  
 }
 
 
@@ -419,10 +421,12 @@ nav.show div.icon-close {
 .swiper-pagination-bullet {
   width: 0.75rem;
   height: 0.75rem;
+  background-color: white;
 }
 
 .swiper-pagination-bullet-active {
   background: var(--base-color);
+ 
 }
 
 /* === CONTATO === */
